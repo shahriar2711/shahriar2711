@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar2711" alt="shahriar2711" /></a> </p>
 
-- 🔭 I’m currently working on **MediNomad**
+
 
 - 🌱 I’m currently learning **DSA and Federated Learning**
 
